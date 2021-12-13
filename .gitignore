@@ -45,7 +45,7 @@ _deps
 build
 
 # database
-reminder-app.db
+kanban-board.db
 
 # python
 venv/
@@ -74,4 +74,3 @@ Thumbs.db
 
 # http
 *.http
-
